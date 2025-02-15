@@ -46,10 +46,7 @@ pip install ipywidgets numpy matplotlib
 - Errors related to missing packages can be resolved using the `pip install` command mentioned above.
 
 ## Author
-- **Your Name**  
-- Contact: [Your Email]
-- GitHub: [Your GitHub Profile]
+- **Hamza Qureshi**  
+- Contact: hamzafarooqqureshi@gmail.com
 
-## License
-This project is licensed under the MIT License.
 
